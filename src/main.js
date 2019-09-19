@@ -16,4 +16,4 @@ import './lib/mui/css/mui.css'
 var vm = new Vue({
     el:'#app',
     render:c=>c(App)
-})
+})  

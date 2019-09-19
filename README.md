@@ -7,3 +7,6 @@
 
 * 使用git的过程中 还是以上手为主 只看是不行的 git init   git add .     git status    git commit -m ""   
 * 在github上新建一个仓库 然后按照提示 生成自己的仓库地址 然后连接本地项目和远端的github项目仓库  公钥已经生成并添加  此时 只需要 git remote add origin http……  至此 本地项目和远端仓库就已经产生连接 以后每次使用 git push -u origin master就可以推送到github仓库
+fsdfsd
+sdfsd
+sdfsdf
