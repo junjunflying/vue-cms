@@ -13,6 +13,8 @@ import './css/default.css'
 
 import './lib/mui/css/mui.css'
 
+import './lib/mui/css/icons-extra.css'
+
 var vm = new Vue({
     el:'#app',
     render:c=>c(App)
