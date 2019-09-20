@@ -4,3 +4,7 @@ html{
     padding:0;
     margin:0;
 }
+/* 下边是激活的路由应用的默认类名 router-link-active 可以自己定义 但是 mui中 有自己的激活类 mui-active 可以用路由对象中的 linkActiveClass修改默认的激活类型 这也是两种方式设置 */
+.router-link-active {
+    color:red !important;
+}

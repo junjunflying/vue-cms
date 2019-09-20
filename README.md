@@ -11,3 +11,4 @@
   * 只要有修改 就会在git中看到有修改的文件 熟悉使用 可以逐一add  也可以点击对勾 直接都commit了 然后 有一个推动功能 直接推到github
 
 * 注意 购物车图表是扩展的图表 需要单独拷贝css 和 font文件  引入这个css后 需要在app.vue相应的标签中添加类 基类mui-icon不要去掉 在后边添加就可以
+* 设置路由的时候 直接将a标签和href属性 改为router-link 和 to属性 用 ctrl+D快捷键方便一些 因为router-link最终还是会被渲染成a标签
