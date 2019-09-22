@@ -12,3 +12,5 @@
 
 * 注意 购物车图表是扩展的图表 需要单独拷贝css 和 font文件  引入这个css后 需要在app.vue相应的标签中添加类 基类mui-icon不要去掉 在后边添加就可以
 * 设置路由的时候 直接将a标签和href属性 改为router-link 和 to属性 用 ctrl+D快捷键方便一些 因为router-link最终还是会被渲染成a标签
+
+* 使用mac clone了远程项目 体验 git
